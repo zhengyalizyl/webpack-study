@@ -1,0 +1,12 @@
+body {
+  background: url(/2.jpg) 0 0 no-repeat;
+}
+body div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border: 1px solid gray;
+}
+
+
+/*# sourceMappingURL=index.css.map*/
