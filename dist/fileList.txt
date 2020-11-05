@@ -1,0 +1,9 @@
+{
+               fileName:{
+  "2.jpg": "images/2.jpg",
+  "main.js": "main.js",
+  "main.js.map": "main.js.map",
+  "zyl.txt": "zyl.txt"
+},
+               fileLength:4
+             }
