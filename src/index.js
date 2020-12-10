@@ -1,13 +1,14 @@
-import {str} from'./a.js'
+// import {str} from'./a.js'
 // import "./index.css";
-import './index.less'
+// import './index.less'
 
-import axios from "axios";
+
+// import axios from "axios";
 
 // axios.get('/api/info').then(res=>{
 //   console.log(res)
 // })
-console.log('hihi'+str)
+// console.log('hihi'+str)
 
 // import logo  from './2.jpg';
 // const  pic=new Image();
@@ -55,3 +56,7 @@ console.log('hihi'+str)
 
 
 // compiler.run();
+
+import {str  } from "./a.js";
+import { str2 } from "./b.js";
+console.log(`hello ${str},${str2}`)
